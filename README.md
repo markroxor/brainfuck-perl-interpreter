@@ -1,5 +1,5 @@
-# brainfuck-perl-compiler
-A very ordinary cross-platform "compiler" for brainfuck written in perl.
+# brainfuck-perl-interpreter
+A very ordinary cross-platform "interpreter" for brainfuck written in perl.
 
 ## Usage:
 ``` shell
